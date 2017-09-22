@@ -15,8 +15,6 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [my-简历]().
 =======
 # vue-ele
 5分钟上手vue
